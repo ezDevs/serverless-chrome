@@ -1,8 +1,8 @@
 {
-  "name": "serverless-chrome",
-  "version": "1.0.0-70",
-  "description": "Run headless Chrome, serverless-ly",
-  "author": "Marco Lüthy <marco.luethy@gmail.com (https://github.com/adieuadieu)",
+  "name": "serverless-chrome-v2",
+  "version": "1.0.0",
+  "description": "Run headless Chrome, serverless-ly fork by https://github.com/adieuadieu/serverless-chrome.git",
+  "author": "Wellington Santana <wellington.c.v.santana@gmail.com (https://github.com/wellington01)",
   "maintainers": [],
   "contributors": [],
   "main": "handler.js",

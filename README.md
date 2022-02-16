@@ -1,3 +1,5 @@
+FORK https://github.com/adieuadieu/serverless-chrome.git
+
 # serverless-chrome
 
 Serverless Chrome contains everything you need to get started running headless
@@ -23,20 +25,23 @@ architectures and doing testing/CI, web-scraping, pre-rendering, etc.
 
 ## Contents
 
-1. [Quick Start](#quick-start)
-1. [The Project](#the-project)
-1. [Examples](#examples)
-1. [Documentation & Resources](#documentation--resources)
-   1. [Building Headless Chrome/Chromium](#building-headless-chromechromium)
-1. [Testing](#testing)
-1. [Articles & Tutorials](#articles--tutorials)
-1. [Troubleshooting](#troubleshooting)
-1. [Roadmap](#roadmap)
-1. [Projects & Companies using serverless-chrome](#projects--companies-using-serverless-chrome)
-1. [Change log](#change-log)
-1. [Contributing](#contributing)
-1. [Prior Art](#prior-art)
-1. [License](#license)
+- [serverless-chrome](#serverless-chrome)
+  - [Contents](#contents)
+  - [Quick Start](#quick-start)
+  - [The Project](#the-project)
+  - [Examples](#examples)
+    - [Serverless-framework](#serverless-framework)
+  - [Documentation & Resources](#documentation--resources)
+    - [Building Headless Chrome/Chromium](#building-headless-chromechromium)
+  - [Testing](#testing)
+  - [Articles & Tutorials](#articles--tutorials)
+  - [Troubleshooting](#troubleshooting)
+  - [Roadmap](#roadmap)
+  - [Projects & Companies using serverless-chrome](#projects--companies-using-serverless-chrome)
+  - [Change log](#change-log)
+  - [Contributing](#contributing)
+  - [Prior Art](#prior-art)
+  - [License](#license)
 
 ## Quick Start
 
